@@ -1,0 +1,6 @@
+config.version = Version(
+    major=1,
+    minor=0,
+    point=67,
+    patch=0
+)
