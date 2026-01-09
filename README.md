@@ -27,6 +27,7 @@ This repository contains small Python scripts demonstrating problem-solving skil
     - `SConstruct` → changes `point=<number>`
     - `VERSION` → changes `ADLMSDK_VERSION_POINT=<number>`
   - Ensures safe updates and prints a confirmation of changes.
+- **NOTE: This script was adapted from a given C++ script into Python as I am much more familiar with this programming language.**
 - **Usage Example:**
   ```bash
   export SourcePath=/path/to/project
